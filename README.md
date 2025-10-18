@@ -13,9 +13,13 @@ kill <clients_id>     ----->        to kill a specific clients by providing the 
 
 sendall <command>     ----->        send the command to all connected clients.
 
+
 ## CLIENT COMMANDS
 quit                  ----->        to kill the client and jump to C2.
+
 back                  ----->        back to c2
+
 cd                    ----->        to change the directory on client.
+
 clear                 ----->        to clear the terminal.
 
