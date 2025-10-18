@@ -2,10 +2,15 @@
 
 ## C2 COMMANDS
 sessions              ----->        print all the connected clients.
+
 clear                 ----->        to clear the C2 terminal.
+
 shell <client_id>     ----->        to interact with client by providing the id.
+
 exit                  ----->        to kill all the connected clients and shutdown the C2.
+
 kill <clients_id>     ----->        to kill a specific clients by providing the id.
+
 sendall <command>     ----->        send the command to all connected clients.
 
 ## CLIENT COMMANDS
